@@ -1,0 +1,14 @@
+body{
+    background-color:#f39189;
+}
+#time{
+    font-size:6.9rem;
+}
+
+#card{
+    transition:all 5s;
+}
+#veri{
+    font-size:35px;
+    color:gray;
+}
